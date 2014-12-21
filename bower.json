@@ -1,0 +1,26 @@
+{
+  "name": "backbonefire-starter",
+  "version": "0.1.0",
+  "authors": [
+    "David East <deast@google.com>"
+  ],
+  "keywords": [
+    "Backbone",
+    "Firebase",
+    "BackboneFire"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firebase": "~2.0.6",
+    "backbone": "~1.1.2",
+    "backbonefire": "~0.5.0"
+  }
+}
